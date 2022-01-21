@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Teknew-Training</h1>
+
+<?php
+echo "Hello TeknewlogyGroup DevOps Teams";
+?>
+
+</body>
+</html>
